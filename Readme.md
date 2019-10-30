@@ -27,3 +27,7 @@ Steps to run
   
   
 To see the generated images check Readme.ipynb
+
+Data source: http://web.mit.edu/torralba/www/indoor.html?source=post_page--------------------------- 
+
+This is a 2.4 GB data set. Choose this dataset as it has wide variety of images so the neural network will generalize better to different types of images
