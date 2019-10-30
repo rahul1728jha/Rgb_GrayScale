@@ -31,3 +31,13 @@ To see the generated images check Readme.ipynb
 Data source: http://web.mit.edu/torralba/www/indoor.html?source=post_page--------------------------- 
 
 This is a 2.4 GB data set. Choose this dataset as it has wide variety of images so the neural network will generalize better to different types of images
+
+# Some of the sample images. Left is generated through the network and the right one is generated through open cv
+
+
+<table><tr><td><img src='data/output/generated_1.jpg'></td><td><img src='data/output/test_1.jpg'></td></tr></table>
+<table><tr><td><img src='data/output/generated_2.jpg'></td><td><img src='data/output/test_2.jpg'></td></tr></table>
+<table><tr><td><img src='data/output/generated_3.jpg'></td><td><img src='data/output/test_3.jpg'></td></tr></table>
+<table><tr><td><img src='data/output/generated_4.jpg'></td><td><img src='data/output/test_4.jpg'></td></tr></table>
+<table><tr><td><img src='data/output/generated_5.jpg'></td><td><img src='data/output/test_5.jpg'></td></tr></table>
+<table><tr><td><img src='data/output/generated_6.jpg'></td><td><img src='data/output/test_6.jpg'></td></tr></table>
