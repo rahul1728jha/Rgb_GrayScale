@@ -18,3 +18,12 @@ Neural Network Model
   5. Loss: Mean squared error
   6. Epochs : 10
   7. Batch size : 32
+
+
+Steps to run
+  1. Download the image data from the mentioned link, or any other dataset can be used.
+  2. Place the dataset and the Grayscale_Converter.ipynb in the same directory.
+  3. Create directories : data/gray_images, data/color_images, data/output
+  
+  
+To see the generated images check Readme.ipynb
